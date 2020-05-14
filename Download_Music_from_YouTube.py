@@ -1,9 +1,7 @@
 import os
-from pytube import YouTube
-import pytube
 import easygui
-from moviepy.editor import *
-
+import pytube
+from pytube import YouTube
 
 #進度條
 def progress(chunk, file_handle, bytes_remaining):
