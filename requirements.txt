@@ -1,4 +1,3 @@
 easygui==0.98.1
-moviepy==1.0.3
 pytube3==9.6.4
 pytube==9.6.0
