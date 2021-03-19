@@ -1,6 +1,5 @@
 import os
 import easygui
-import pytube
 from pytube import YouTube
 
 #進度條
