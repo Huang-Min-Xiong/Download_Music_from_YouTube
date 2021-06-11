@@ -1,2 +1,1 @@
-pytube==10.6.0
-easygui==0.98.1
+pytube==10.8.4
